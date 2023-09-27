@@ -1,0 +1,19 @@
+body {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+p {text-align: justify;
+    text-align: left;
+    font-size: 27px;
+}
+.aumentar-imagem {
+    transform: scale(0.93); /* Aumenta a imagem em 1.5 vezes o tamanho original */
+}
+
+h3 {
+    font-size: 40px;
+}
